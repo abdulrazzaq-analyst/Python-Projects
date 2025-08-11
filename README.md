@@ -28,6 +28,6 @@ Your feedback and collaboration are always welcome!
 ---
 
 ## 🤝 Connect with Me  
-- GitHub: [abdulrazzaq-analyst](https://github.com/abdulrazzaq-analyst)  
+- GitHub: [Abdul Razzaq](https://github.com/abdulrazzaq-analyst)  
 - LinkedIn: [Abdul Razzaq](https://www.linkedin.com/in/abdul-razzaq-095aab2b6)
 
