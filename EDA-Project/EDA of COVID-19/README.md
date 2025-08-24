@@ -32,3 +32,28 @@ The main objectives of this EDA are:
 - **Europe** reported the most cases regionally, while the **Americas** accounted for the highest deaths.
 - Several countries have never reported any COVID-19 cases or deaths.
 - Global death ratios vary significantly across WHO regions.
+
+## Tools & Libraries
+- Python (Pandas, NumPy)
+- Matplotlib & Seaborn (Data Visualization)
+- Jupyter Notebook (for analysis and reporting)
+
+## Insights & Visualizations
+- Sales trends over publishing years
+- Top genres and their contribution to sales
+- Distribution of author ratings and their effect on sales
+- Publisher-wise revenue comparison
+- Language-wise sales segmentation
+
+---
+
+Thank you for visiting my repository!  
+Feel free to explore, learn, and connect with me.  
+Your feedback and collaboration are always welcome!
+
+---
+
+## 🤝 Connect with Me  
+- GitHub: [Abdul Razzaq](https://github.com/abdulrazzaq-analyst)  
+- LinkedIn: [Abdul Razzaq](https://www.linkedin.com/in/abdul-razzaq-095aab2b6)
+
