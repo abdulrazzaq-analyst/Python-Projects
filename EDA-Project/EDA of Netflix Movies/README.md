@@ -269,8 +269,11 @@ Statistics Graduate | Data Analytics & Visualization
 
 ## 📋 Acknowledgments
 Data Source: Kaggle (Netflix Movies Dataset)
+
 Analysis Period: 16 years of movie data
+
 Tools Used: Python, Pandas, Matplotlib, Seaborn
+
 Purpose: Entertainment Industry Analysis and Insights Generation
 
 ---
