@@ -49,8 +49,23 @@ Thank you for visiting my repository!
 Feel free to explore, learn, and connect with me.  
 Your feedback and collaboration are always welcome!
 
+----
+
+## 🌐 Portfolio Website
+Explore more of my data analytics projects:  
+👉 https://abdulrazzaq-analyst.github.io/Portfolio_Website/
+
 ---
 
-## 🤝 Connect with Me  
-- GitHub: [Abdul Razzaq](https://github.com/abdulrazzaq-analyst)  
-- LinkedIn: [Abdul Razzaq](https://www.linkedin.com/in/abdul-razzaq-095aab2b6)
+## 📞 Contact
+For questions or collaboration:  
+📧 abdulrazzaq.analytics@gmail.com  
+🔗 https://github.com/abdulrazzaq-analyst
+
+---
+
+## 👤 Author
+**Abdul Razzaq**  
+Statistics Graduate | Data Analytics & Visualization  
+🔗 GitHub: https://github.com/abdulrazzaq-analyst
+
