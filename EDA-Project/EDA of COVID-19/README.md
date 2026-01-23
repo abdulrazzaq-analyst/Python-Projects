@@ -200,8 +200,11 @@ Statistics Graduate | Data Analytics & Visualization
 
 ## 📋 Acknowledgments
 Data Source: World Health Organization (WHO)
+
 Analysis Period: 2020-2025
+
 Tools Used: Python, Pandas, Matplotlib, Seaborn
+
 Purpose: Educational and Research Analysis
 
 ---
